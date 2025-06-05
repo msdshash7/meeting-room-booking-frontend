@@ -1,0 +1,1 @@
+// pages/BookingPage.js placeholder content

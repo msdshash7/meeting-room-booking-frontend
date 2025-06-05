@@ -1,0 +1,1 @@
+// pages/DashboardPage.js placeholder content
