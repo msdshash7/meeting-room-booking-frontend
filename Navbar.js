@@ -1,0 +1,1 @@
+// components/Navbar.js placeholder content

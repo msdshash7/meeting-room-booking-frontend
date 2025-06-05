@@ -1,0 +1,1 @@
+// components/ProtectedRoute.js placeholder content
